@@ -24,6 +24,10 @@
 
 ![](./pics/Screenshot/Screenshot_20240103-141546.png)
 
+![](./hw-info/Screenshot_20240104-211521.jpeg)
+
+詳細的硬體資訊請到 [這裡](./hw-info/), 有詳細的截圖跟HW Info的匯出報告
+
 原廠用的Apple Carplay, Android Auto是北京至簡的TLink
 
 其實TLink/ZLink都是同一家, 就隨著版本更新一直換名字不知道幹啥
@@ -36,6 +40,10 @@
 
 ![](./pics/Screenshot/Screenshot_20240103-142406.png)
 
+東西都到我手上了, 當然是會拆開看一下的, 照片見[這邊](./pics/teardown/)
+
 ## 參考資料
 
 https://drive.weixin.qq.com/s?k=ABQAQQc3ABA701zp1I#
+
+https://xdaforums.com/t/general-fyt-based-spreadtrum-uis7862-s-unisoc-ums512-uis8581a-sc9863-q-a-mods-tips-firmware.4396339/

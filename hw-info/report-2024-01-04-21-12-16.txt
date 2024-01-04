@@ -1,0 +1,973 @@
+AIDA64 for Android v1.98 Report
+
+<<< 系統 >>>
+
+製造商: sprd
+型號: ums512_1h10_Natv
+品牌: SPRD
+板: ums512_1h10
+裝置: ums512_1h10
+硬體: ums512_1h10
+平台: ums512
+產品: ums512_1h10_Natv
+已安裝RAM: 8 GB
+總共記憶體: 7755 MB
+可用記憶體: 5383 MB
+內部儲存空間總空間: 110.44 GB
+內部儲存空間可用空間: 105.19 GB
+Bluetooth版本: 4+
+裝置功能: android.hardware.audio.output
+android.hardware.biometrics.face
+android.hardware.bluetooth
+android.hardware.bluetooth_le
+android.hardware.broadcastradio
+android.hardware.camera
+android.hardware.camera.any
+android.hardware.camera.front
+android.hardware.faketouch
+android.hardware.location
+android.hardware.location.gps
+android.hardware.location.network
+android.hardware.microphone
+android.hardware.opengles.aep
+android.hardware.ram.normal
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.sensor.accelerometer
+android.hardware.sensor.compass
+android.hardware.sensor.gyroscope
+android.hardware.sensor.light
+android.hardware.sensor.proximity
+android.hardware.sensor.stepcounter
+android.hardware.sensor.stepdetector
+android.hardware.telephony
+android.hardware.telephony.cdma
+android.hardware.telephony.gsm
+android.hardware.telephony.ims
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.usb.accessory
+android.hardware.usb.host
+android.hardware.vulkan.compute
+android.hardware.vulkan.level
+android.hardware.vulkan.version
+android.hardware.wifi
+android.hardware.wifi.direct
+android.hardware.wifi.passpoint
+android.software.activities_on_secondary_displays
+android.software.app_widgets
+android.software.autofill
+android.software.backup
+android.software.cant_save_state
+android.software.companion_device_setup
+android.software.connectionservice
+android.software.cts
+android.software.device_admin
+android.software.home_screen
+android.software.input_methods
+android.software.ipsec_tunnels
+android.software.managed_users
+android.software.midi
+android.software.picture_in_picture
+android.software.print
+android.software.secure_lock_screen
+android.software.verified_boot
+android.software.voice_recognizers
+android.software.webview
+com.google.android.feature.WELLBEING
+
+<<< CPU >>>
+
+SoC型號: Unisoc UIS7862A
+核心架構: 6x ARM Cortex-A55 @ 2002 MHz
+2x ARM Cortex-A75 @ 2002 MHz
+指令集: 64位元ARMv8-A
+CPU修訂: r3p1
+CPU核心: 8
+CPU時脈範圍: 614 - 2002 MHz
+核心1時脈: 2002 MHz
+核心2時脈: 2002 MHz
+核心3時脈: 2002 MHz
+核心4時脈: 2002 MHz
+核心5時脈: 2002 MHz
+核心6時脈: 2002 MHz
+核心7時脈: 1742 MHz
+核心8時脈: 1742 MHz
+CPU使用率: 12 %
+調速器: schedutil
+支援的ABI: arm64-v8a, armeabi-v7a, armeabi
+支援的32位元ABI: armeabi-v7a, armeabi
+支援的64位元ABI: arm64-v8a
+AES: 已支援
+ASIMD/NEON: 已支援
+PMULL: 已支援
+SHA1: 已支援
+SHA2: 已支援
+
+<<< 顯示 >>>
+
+屏幕解析度: 1280 × 720
+屏幕大小: 121 mm × 68 mm
+屏幕對角線: 5.46 吋
+像素密度: 269 dpi (mdpi)
+xdpi / ydpi: 269 / 269 dpi
+GPU供應商: ARM
+GPU渲染器: Mali-G52
+GPU核心: 2
+更新率: 59 Hz
+預設方向: 橫向
+OpenGL ES版本: 3.2
+GPU版本: OpenGL ES 3.2 v1.r21p0-01rel0.9068cba0431d00ef2fe56763b32bda05
+OpenGL ES擴展: GL_EXT_debug_marker
+GL_ARM_rgba8
+GL_ARM_mali_shader_binary
+GL_OES_depth24
+GL_OES_depth_texture
+GL_OES_depth_texture_cube_map
+GL_OES_packed_depth_stencil
+GL_OES_rgb8_rgba8
+GL_EXT_read_format_bgra
+GL_OES_compressed_paletted_texture
+GL_OES_compressed_ETC1_RGB8_texture
+GL_OES_standard_derivatives
+GL_OES_EGL_image
+GL_OES_EGL_image_external
+GL_OES_EGL_image_external_essl3
+GL_OES_EGL_sync
+GL_OES_texture_npot
+GL_OES_vertex_half_float
+GL_OES_required_internalformat
+GL_OES_vertex_array_object
+GL_OES_mapbuffer
+GL_EXT_texture_format_BGRA8888
+GL_EXT_texture_rg
+GL_EXT_texture_type_2_10_10_10_REV
+GL_OES_fbo_render_mipmap
+GL_OES_element_index_uint
+GL_EXT_shadow_samplers
+GL_OES_texture_compression_astc
+GL_KHR_texture_compression_astc_ldr
+GL_KHR_texture_compression_astc_hdr
+GL_KHR_texture_compression_astc_sliced_3d
+GL_EXT_texture_compression_astc_decode_mode
+GL_EXT_texture_compression_astc_decode_mode_rgb9e5
+GL_KHR_debug
+GL_EXT_occlusion_query_boolean
+GL_EXT_disjoint_timer_query
+GL_EXT_blend_minmax
+GL_EXT_discard_framebuffer
+GL_OES_get_program_binary
+GL_OES_texture_3D
+GL_EXT_texture_storage
+GL_EXT_multisampled_render_to_texture
+GL_EXT_multisampled_render_to_texture2
+GL_OES_surfaceless_context
+GL_OES_texture_stencil8
+GL_EXT_shader_pixel_local_storage
+GL_ARM_shader_framebuffer_fetch
+GL_ARM_shader_framebuffer_fetch_depth_stencil
+GL_ARM_mali_program_binary
+GL_EXT_sRGB
+GL_EXT_sRGB_write_control
+GL_EXT_texture_sRGB_decode
+GL_EXT_texture_sRGB_R8
+GL_EXT_texture_sRGB_RG8
+GL_KHR_blend_equation_advanced
+GL_KHR_blend_equation_advanced_coherent
+GL_OES_texture_storage_multisample_2d_array
+GL_OES_shader_image_atomic
+GL_EXT_robustness
+GL_EXT_draw_buffers_indexed
+GL_OES_draw_buffers_indexed
+GL_EXT_texture_border_clamp
+GL_OES_texture_border_clamp
+GL_EXT_texture_cube_map_array
+GL_OES_texture_cube_map_array
+GL_OES_sample_variables
+GL_OES_sample_shading
+GL_OES_shader_multisample_interpolation
+GL_EXT_shader_io_blocks
+GL_OES_shader_io_blocks
+GL_EXT_tessellation_shader
+GL_OES_tessellation_shader
+GL_EXT_primitive_bounding_box
+GL_OES_primitive_bounding_box
+GL_EXT_geometry_shader
+GL_OES_geometry_shader
+GL_ANDROID_extension_pack_es31a
+GL_EXT_gpu_shader5
+GL_OES_gpu_shader5
+GL_EXT_texture_buffer
+GL_OES_texture_buffer
+GL_EXT_copy_image
+GL_OES_copy_image
+GL_EXT_shader_non_constant_global_initializers
+GL_EXT_color_buffer_half_float
+GL_EXT_color_buffer_float
+GL_EXT_YUV_target
+GL_OVR_multiview
+GL_OVR_multiview2
+GL_OVR_multiview_multisampled_render_to_texture
+GL_KHR_robustness
+GL_KHR_robust_buffer_access_behavior
+GL_EXT_draw_elements_base_vertex
+GL_OES_draw_elements_base_vertex
+GL_EXT_protected_textures
+GL_EXT_buffer_storage
+GL_EXT_external_buffer
+GL_EXT_EGL_image_array
+
+<<< 網路 >>>
+
+<< 電話通訊 >>
+手機類型: GSM
+SIM狀態: 不存在
+ICC卡: 不存在
+
+<< Wi-Fi >>
+狀態: 已啟用
+SSID: <unknown ssid>
+BSSID: 00:00:00:00:00:00
+隱藏的SSID: 是
+IPv4位址: 192.168.100.99
+IPv6位址: 0000::0000:0000:0000:0000
+訊號強度: -50 dBm (極佳)
+連結速度: 390 Mbps
+頻率: 5180 MHz
+閘道: 192.168.100.1
+網絡遮罩: 255.255.255.0
+DNS1: 192.168.100.1
+DHCP租用期間: 12 時
+5 GHz頻段: 已支援
+Wi-Fi Aware: 不支援
+Wi-Fi Direct: 已支援
+
+<<< 電池 >>>
+
+電源: A/C充電器
+電量: 100 %
+狀態: 充電已滿
+健康: 好
+溫度: 1.1°C
+電壓: 0.005 V
+容量(Android報告): 3600 mAh
+
+<<< Android >>>
+
+Android版本: 12 (Snow Cone)
+API層級: 31
+Android安全性修補程式級別: 2022-10-22
+Rooted裝置: 否
+Android ID: <Android ID>
+基頻: FM_BASE_19C_W20.52.2_P18|sharkl5pro_modem|02-20-2023 11:29:23
+軟件ID: QP1A.190711.020 release-keys
+代號: REL
+指紋: SPRD/ums512_1h10_Natv/ums512_1h10:10/QP1A.190711.020/36516:user/release-keys
+ID: QP1A.190711.020
+增量: 36516
+Java Runtime版本: Android Runtime 0.9
+Java VM版本: ART 2.1.0
+Java VM堆積大小: 384 MB
+核心架構: aarch64
+核心版本: 4.14.133 (xcy@ubuntu) (Android (5484270 based on r353983c) clang version 9.0.3 (https://android.googlesource.com/toolchain/clang 745b335211bb9eadfa6aa6301f84715cee4b37c5) (https://android.googlesource.com/toolchain/llvm 60cf23e54e46c807513f7a36d0a7b777920b5881) (based on LLVM 9.0.3svn)) #317 SMP PREEMPT Wed Sep 6 18:15:11 CST 2023
+標籤: release-keys
+類型: user
+Google Play服務版本: 23.48.16 (100400-590025996)
+Huawei Mobile服務版本: < 不存在 >
+OpenSSL版本: OpenSSL 1.1.0 (compatible; BoringSSL)
+ZLib版本: 1.2.11
+ICU CLDR版本: 34.0
+ICU庫版本: 63.2
+ICU Unicode版本: 11.0
+Android語言: 中文 (繁體中文,台灣)
+設定的時區: 台北標準時間 (UTC+08:00)
+運行時間: 00:00:00
+
+<<< 裝置 >>>
+
+<< 後置相機 >>
+解析度: 8.3 MP (3840 × 2160)
+影片解析度: 3.7 MP (2560 × 1440)
+焦距: 3.75 mm
+對焦模式: fixed, infinity
+影片快照: 已支援
+影片防震: 不支援
+縮放: 已支援
+平滑縮放: 不支援
+自動曝光鎖定: 已支援
+自動白平衡鎖定: 已支援
+閃光燈: 不支援
+
+<< 後置相機 >>
+解析度: 8.3 MP (3840 × 2160)
+焦距: 3.75 mm
+對焦模式: fixed, infinity
+影片防震: 不支援
+縮放: 已支援
+自動曝光鎖定: 已支援
+自動白平衡鎖定: 已支援
+閃光燈: 不支援
+
+<< 後置相機 >>
+解析度: 8.3 MP (3840 × 2160)
+影片解析度: 3.7 MP (2560 × 1440)
+焦距: 3.75 mm
+對焦模式: fixed, infinity
+影片快照: 已支援
+影片防震: 不支援
+縮放: 已支援
+平滑縮放: 不支援
+自動曝光鎖定: 已支援
+自動白平衡鎖定: 已支援
+閃光燈: 不支援
+
+<< USB裝置 - Linux 4.14.133 musb-hcd MUSB HDRC host driver >>
+製造商: Linux 4.14.133 musb-hcd
+產品: MUSB HDRC host driver
+序號: musb-hdrc.0.auto
+裝置ID: 1D6B-0002
+裝置類別: 09 / 00 (Hi-Speed Hub with single TT)
+裝置通訊協定: 01
+修訂: 0414
+支援的USB版本: 2.00
+目前速度: 480 Mbps
+
+<< USB裝置 - USB 2.0 Hub >>
+產品: USB 2.0 Hub
+裝置ID: 1A40-0801
+裝置類別: 09 / 00 (Hi-Speed Hub with single TT)
+裝置通訊協定: 01
+修訂: 0100
+支援的USB版本: 2.00
+目前速度: 480 Mbps
+最大功耗: 100 mA
+
+<< Vulkan裝置 - Mali-G52 >>
+裝置名稱: Mali-G52
+裝置類型: 整合式GPU
+裝置UUID: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+裝置ID: 00000000-00000000
+記憶體大小: 7931332 KB
+Max 1D Image Size: 16384
+Max 2D Image Size: 8192 x 8192
+Max 3D Image Size: 4096 x 4096 x 4096
+Max Cube Image Size: 8192 x 8192
+Max Image Layers: 256
+Max Texel Buffer Elements: 65536
+Max Uniform Buffer Range: 65536
+Max Storage Buffer Range: 268435456
+Max Push Constants Size: 256 位元組
+Buffer Image Granularity: 4 KB
+Max Bound Descriptor Sets: 4
+Max Per-Stage Descriptor Samplers: 128
+Max Per-Stage Descriptor Uniform Buffers: 12
+Max Per-Stage Descriptor Storage Buffers: 35
+Max Per-Stage Descriptor Sampled Images: 16
+Max Per-Stage Descriptor Storage Images: 8
+Max Per-Stage Descriptor Input Attachments: 4
+Max Per-Stage Resources: 83
+Max Descriptor Set Samplers: 768
+Max Descriptor Set Uniform Buffers: 72
+Max Descriptor Set Dynamic Uniform Buffers: 8
+Max Descriptor Set Storage Buffers: 210
+Max Descriptor Set Dynamic Storage Buffers: 4
+Max Descriptor Set Sampled Images: 96
+Max Descriptor Set Storage Images: 48
+Max Descriptor Set Input Attachments: 4
+Max Vertex Input Attributes: 16
+Max Vertex Input Bindings: 16
+MaxVertex Input Attribute Offset: 2047
+Max Vertex Input Binding Stride: 2048
+Max Vertex Output Components: 128
+Max Tesselation Generation Level: 64
+Max Tesselation Patch Size: 32
+Max Tesselation Control Per-Vertex Input Components: 128
+Max Tesselation Control Per-Vertex Output Components: 128
+Max Tesselation Control Per-Patch Output Components: 120
+Max Tesselation Control Total Output Components: 4096
+Max Tesselation Evaluation Input Components: 128
+Max Tesselation Evaluation Output Components: 128
+Max Geometry Shader Invocations: 32
+Max Geometry Input Components: 64
+Max Geometry Output Components: 128
+Max Geometry Output Vertices: 256
+Max Geometry Total Output Components: 1024
+Max Fragment Input Components: 128
+Max Fragment Output Attachments: 8
+Max Fragment Combined Output Resources: 51
+Max Compute Shared Memory Size: 32 KB
+Max Compute Work Group Invocations: 384
+Max Compute Work Group Size: X: 384, Y: 384, Z: 384
+Subpixel Precision Bits: 8
+Subtexel Precision Bits: 8
+Mipmap Precision Bits: 8
+Max Draw Indexed Index Value: 4294967295
+Max Draw Indirect Count: 1
+Max Sampler LOD Bias: 255.000000
+Max Sampler Anisotropy: 16.000000
+Max Viewports: 1
+Max Viewport Size: 8192 x 8192
+Viewport Bounds Range: -16384.000000 ... 16383.000000
+Min Memory Map Alignment: 64 位元組
+Min Texel Buffer Offset Alignment: 256 位元組
+Min Uniform Buffer Offset Alignment: 16 位元組
+Min Storage Buffer Offset Alignment: 256 位元組
+Min / Max Texel Offset: -8 / 7
+Min / Max Texel Gather Offset: -8 / 7
+Min / Max Interpolation Offset: -0.500000 / 0.500000
+Subpixel Interpolation Offset Bits: 4
+Max Framebuffer Size: 8192 x 8192
+Max Framebuffer Layers: 256
+Framebuffer Color Sample Counts: 0x00000005
+Framebuffer Depth Sample Counts: 0x00000005
+Framebuffer Stencil Sample Counts: 0x00000005
+Framebuffer No Attachments Sample Counts: 0x0000001D
+Max Color Attachments: 8
+Sampled Image Color Sample Counts: 0x00000005
+Sampled Image Integer Sample Counts: 0x00000001
+Sampled Image Depth Sample Counts: 0x00000005
+Sampled Image Stencil Sample Counts: 0x00000005
+Storage Image Sample Counts: 0x00000001
+Max Sample Mask Words: 1
+Discrete Queue Priorities: 2
+Point Size Range: 1.000000 ... 1024.000000
+Line Width Range: 1.000000 ... 1.000000
+Point Size Granularity: 0.062500
+Optimal Buffer Copy Offset Alignment: 64 位元組
+Optimal Buffer Copy Row Pitch Alignment: 64 位元組
+Non-Coherent Atom Size: 64 位元組
+驅動程式版本: 21.0.0
+API版本: 1.1.117
+Vulkan庫: /system/lib64/libvulkan.so
+Alpha To One: 不支援
+Anisotropic Filtering: 已支援
+ASTC LDR Texture Compression: 已支援
+BC Texture Compression: 不支援
+Depth Bias Clamping: 已支援
+Depth Bounds Tests: 不支援
+Depth Clamping: 不支援
+Draw Indirect First Instance: 已支援
+Dual Source Blend Operations: 不支援
+ETC2 and EAC Texture Compression: 已支援
+Fragment Stores and Atomics: 已支援
+Full Draw Index Uint32: 已支援
+Geometry Shader: 已支援
+Image Cube Array: 已支援
+Independent Blend: 已支援
+Inherited Queries: 不支援
+Large Points: 已支援
+Logic Operations: 不支援
+Multi-Draw Indirect: 不支援
+Multi Viewport: 不支援
+Occlusion Query Precise: 已支援
+Pipeline Statistics Query: 不支援
+Point and Wireframe Fill Modes: 不支援
+Robust Buffer Access: 已支援
+Sample Rate Shading: 已支援
+Shader Clip Distance: 不支援
+Shader Cull Distance: 不支援
+Shader Float64: 不支援
+Shader Image Gather Extended: 已支援
+Shader Int16: 已支援
+Shader Int64: 不支援
+Shader Resource Min LOD: 不支援
+Shader Resource Residency: 不支援
+Shader Sampled Image Array Dynamic Indexing: 已支援
+Shader Storage Buffer Array Dynamic Indexing: 已支援
+Shader Storage Image Array Dynamic Indexing: 已支援
+Shader Storage Image Extended Formats: 已支援
+Shader Storage Image Multisample: 不支援
+Shader Storage Image Read Without Format: 已支援
+Shader Storage Image Write Without Format: 已支援
+Shader Tesselation and Geometry Point Size: 不支援
+Shader Uniform Buffer Array Dynamic Indexing: 已支援
+Sparse Binding: 不支援
+Sparse Residency 2 Samples: 不支援
+Sparse Residency 4 Samples: 不支援
+Sparse Residency 8 Samples: 不支援
+Sparse Residency 16 Samples: 不支援
+Sparse Residency Aliased: 不支援
+Sparse Residency Aligned Mip Size: 否
+Sparse Residency Buffer: 不支援
+Sparse Residency Image 2D: 不支援
+Sparse Residency Image 3D: 不支援
+Sparse Residency Non-Resident Strict: 否
+Sparse Residency Standard 2D Block Shape: 否
+Sparse Residency Standard 2D Multisample Block Shape: 否
+Sparse Residency Standard 3D Block Shape: 否
+Standard Sample Locations: 是
+Strict Line Rasterization: 是
+Tesselation Shader: 已支援
+Timestamps on All Graphics and Compute Queues: 不支援
+Variable Multisample Rate: 不支援
+Vertex Pipeline Stores and Atomics: 不支援
+Wide Lines: 不支援
+裝置擴展: VK_KHR_incremental_present
+VK_KHR_shared_presentable_image
+VK_GOOGLE_display_timing
+VK_KHR_16bit_storage
+VK_KHR_8bit_storage
+VK_KHR_bind_memory2
+VK_KHR_create_renderpass2
+VK_KHR_dedicated_allocation
+VK_KHR_depth_stencil_resolve
+VK_KHR_descriptor_update_template
+VK_KHR_device_group
+VK_KHR_driver_properties
+VK_KHR_external_fence
+VK_KHR_external_fence_fd
+VK_KHR_external_memory
+VK_KHR_external_semaphore
+VK_KHR_external_semaphore_fd
+VK_KHR_get_memory_requirements2
+VK_KHR_image_format_list
+VK_KHR_maintenance1
+VK_KHR_maintenance2
+VK_KHR_maintenance3
+VK_KHR_multiview
+VK_KHR_relaxed_block_layout
+VK_KHR_sampler_mirror_clamp_to_edge
+VK_KHR_sampler_ycbcr_conversion
+VK_KHR_shader_draw_parameters
+VK_KHR_shader_float16_int8
+VK_KHR_storage_buffer_storage_class
+VK_KHR_variable_pointers
+VK_EXT_astc_decode_mode
+VK_EXT_global_priority
+VK_EXT_host_query_reset
+VK_EXT_inline_uniform_block
+VK_EXT_queue_family_foreign
+VK_EXT_scalar_block_layout
+VK_EXT_separate_stencil_usage
+VK_EXT_texture_compression_astc_hdr
+VK_EXT_shader_subgroup_ballot
+VK_EXT_shader_subgroup_vote
+VK_ANDROID_external_memory_android_hardware_buffer
+VK_KHR_swapchain
+實例擴展: VK_KHR_surface
+VK_KHR_android_surface
+VK_EXT_swapchain_colorspace
+VK_KHR_get_surface_capabilities2
+VK_EXT_debug_report
+VK_KHR_device_group_creation
+VK_KHR_external_fence_capabilities
+VK_KHR_external_memory_capabilities
+VK_KHR_external_semaphore_capabilities
+VK_KHR_get_physical_device_properties2
+
+找不到OpenCL裝置。
+找不到CUDA裝置。
+找不到PCI裝置。
+
+<<< 溫度 >>>
+
+soc-thmzone: 45.2°C
+prometheus6-tzone0: 42.9°C
+prometheus6-tzone1: 44.5°C
+prometheus7-thmzone: 45.2°C
+ank0-thmzone: 45.2°C
+ank1-thmzone: 45.2°C
+gpu-thmzone: 44.0°C
+ank2-thmzone: 43.4°C
+ank3-thmzone: 43.2°C
+ank4-thmzone: 43.2°C
+ank5-thmzone: 43.2°C
+cputop-thmzone: 44.0°C
+gpuank2-thmzone: 43.6°C
+cluster0-thmzone: 45.2°C
+cluster1-thmzone: 45.2°C
+board-thmzone: 47.8°C
+sc27xx-fgu: 65.0°C
+電池: 1.1°C
+
+<<< 感應器 >>>
+
+找不到感應器。
+
+<<< 應用程式 >>>
+
+Car Info Service: com.tw.carinfoservice(v230712)
+QuickPic: com.alensw.PicFolder(v4.7.2.2421)
+Tlink5: com.zjinnova.zlink(v5.4.12)
+說明書: com.artifex.mupdf(v1.1)
+車輛設置: com.tw.car(v1.0)
+
+<<< 編解碼 >>>
+
+OMX.sprd.mp3l1.decoder: audio/mpeg-L1
+OMX.sprd.mp3l2.decoder: audio/mpeg-L2
+OMX.sprd.mp3.decoder: audio/mpeg
+c2.android.aac.decoder: audio/mp4a-latm
+OMX.google.aac.decoder: audio/mp4a-latm
+c2.android.aac.encoder: audio/mp4a-latm
+OMX.google.aac.encoder: audio/mp4a-latm
+c2.android.amrnb.decoder: audio/3gpp
+OMX.google.amrnb.decoder: audio/3gpp
+c2.android.amrnb.encoder: audio/3gpp
+OMX.google.amrnb.encoder: audio/3gpp
+c2.android.amrwb.decoder: audio/amr-wb
+OMX.google.amrwb.decoder: audio/amr-wb
+c2.android.amrwb.encoder: audio/amr-wb
+OMX.google.amrwb.encoder: audio/amr-wb
+c2.android.flac.decoder: audio/flac
+OMX.google.flac.decoder: audio/flac
+c2.android.flac.encoder: audio/flac
+OMX.google.flac.encoder: audio/flac
+c2.android.g711.alaw.decoder: audio/g711-alaw
+OMX.google.g711.alaw.decoder: audio/g711-alaw
+c2.android.g711.mlaw.decoder: audio/g711-mlaw
+OMX.google.g711.mlaw.decoder: audio/g711-mlaw
+c2.android.mp3.decoder: audio/mpeg
+OMX.google.mp3.decoder: audio/mpeg
+c2.android.opus.decoder: audio/opus
+OMX.google.opus.decoder: audio/opus
+c2.android.opus.encoder: audio/opus
+c2.android.raw.decoder: audio/raw
+OMX.google.raw.decoder: audio/raw
+c2.android.vorbis.decoder: audio/vorbis
+OMX.google.vorbis.decoder: audio/vorbis
+OMX.google.gsm.decoder: audio/gsm
+OMX.sprd.mp3.encoder: audio/mpeg
+OMX.sprd.h264.decoder: video/avc
+OMX.sprd.h263.decoder: video/3gpp
+OMX.sprd.hevc.decoder: video/hevc
+OMX.sprd.mpeg4.decoder: video/mp4v-es
+OMX.sprd.vpx.decoder: video/x-vnd.on2.vp8
+OMX.sprd.vp9.decoder: video/x-vnd.on2.vp9
+OMX.sprd.h264.encoder: video/avc
+OMX.sprd.h265.encoder: video/hevc
+c2.android.av1.decoder: video/av01
+c2.android.avc.decoder: video/avc
+OMX.google.h264.decoder: video/avc
+c2.android.avc.encoder: video/avc
+OMX.google.h264.encoder: video/avc
+c2.android.h263.decoder: video/3gpp
+OMX.google.h263.decoder: video/3gpp
+c2.android.h263.encoder: video/3gpp
+OMX.google.h263.encoder: video/3gpp
+c2.android.hevc.decoder: video/hevc
+OMX.google.hevc.decoder: video/hevc
+c2.android.hevc.encoder: video/hevc
+c2.android.mpeg4.decoder: video/mp4v-es
+OMX.google.mpeg4.decoder: video/mp4v-es
+c2.android.mpeg4.encoder: video/mp4v-es
+OMX.google.mpeg4.encoder: video/mp4v-es
+c2.android.vp8.decoder: video/x-vnd.on2.vp8
+OMX.google.vp8.decoder: video/x-vnd.on2.vp8
+c2.android.vp8.encoder: video/x-vnd.on2.vp8
+OMX.google.vp8.encoder: video/x-vnd.on2.vp8
+c2.android.vp9.decoder: video/x-vnd.on2.vp9
+OMX.google.vp9.decoder: video/x-vnd.on2.vp9
+c2.android.vp9.encoder: video/x-vnd.on2.vp9
+OMX.google.vp9.encoder: video/x-vnd.on2.vp9
+
+<<< 目錄 >>>
+
+資料: /data
+Root: /system
+Java Home: /system
+下載/快取內容: /data/cache
+
+<< 外部儲存空間 >>
+主要外部儲存空間: /storage/emulated/0
+鬧鐘: /storage/emulated/0/Alarms
+DCIM: /storage/emulated/0/DCIM
+下載: /storage/emulated/0/Download
+影片: /storage/emulated/0/Movies
+音樂: /storage/emulated/0/Music
+通知: /storage/emulated/0/Notifications
+相片: /storage/emulated/0/Pictures
+Podcasts: /storage/emulated/0/Podcasts
+鈴聲: /storage/emulated/0/Ringtones
+
+<< 掛載點 >>
+/: 裝置: /dev/block/dm-0
+檔案系統: ext4
+唯讀
+/dev: 裝置: tmpfs
+檔案系統: tmpfs
+讀寫
+/dev/pts: 裝置: devpts
+檔案系統: devpts
+讀寫
+/dev/cg2_bpf: 裝置: none
+檔案系統: cgroup2
+讀寫
+/dev/cpuctl: 裝置: none
+檔案系統: cgroup
+讀寫
+/dev/cpuset: 裝置: none
+檔案系統: cgroup
+讀寫
+/dev/memcg: 裝置: none
+檔案系統: cgroup
+讀寫
+/dev/stune: 裝置: none
+檔案系統: cgroup
+讀寫
+/dev/usb-ffs/adb: 裝置: adb
+檔案系統: functionfs
+讀寫
+/proc: 裝置: proc
+檔案系統: proc
+讀寫
+/sys: 裝置: sysfs
+檔案系統: sysfs
+讀寫
+/sys/fs/selinux: 裝置: selinuxfs
+檔案系統: selinuxfs
+讀寫
+/sys/kernel/debug: 裝置: debugfs
+檔案系統: debugfs
+讀寫
+/sys/kernel/debug/tracing: 裝置: tracefs
+檔案系統: tracefs
+讀寫
+/sys/fs/bpf: 裝置: bpf
+檔案系統: bpf
+讀寫
+/sys/fs/pstore: 裝置: pstore
+檔案系統: pstore
+讀寫
+/mnt: 裝置: tmpfs
+檔案系統: tmpfs
+讀寫
+/mnt/vendor: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/prodnv
+檔案系統: ext4
+讀寫
+/mnt/vendor/socko: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/socko
+檔案系統: ext4
+唯讀
+/mnt/vendor/odmko: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/odmko
+檔案系統: ext4
+唯讀
+/mnt/runtime/default/emulated: 裝置: /data/media
+檔案系統: sdcardfs
+讀寫
+/mnt/runtime/read/emulated: 裝置: /data/media
+檔案系統: sdcardfs
+讀寫
+/mnt/runtime/write/emulated: 裝置: /data/media
+檔案系統: sdcardfs
+讀寫
+/mnt/runtime/full/emulated: 裝置: /data/media
+檔案系統: sdcardfs
+讀寫
+/apex: 裝置: tmpfs
+檔案系統: tmpfs
+讀寫
+/apex/com.android.apex.cts.shim@1: 裝置: /dev/block/loop2
+檔案系統: ext4
+唯讀
+/apex/com.android.apex.cts.shim: 裝置: /dev/block/loop2
+檔案系統: ext4
+唯讀
+/apex/com.android.media@290000000: 裝置: /dev/block/loop3
+檔案系統: ext4
+唯讀
+/apex/com.android.media: 裝置: /dev/block/loop3
+檔案系統: ext4
+唯讀
+/apex/com.android.runtime@1: 裝置: /dev/block/loop4
+檔案系統: ext4
+唯讀
+/apex/com.android.runtime: 裝置: /dev/block/loop4
+檔案系統: ext4
+唯讀
+/apex/com.android.resolv@290000000: 裝置: /dev/block/loop5
+檔案系統: ext4
+唯讀
+/apex/com.android.resolv: 裝置: /dev/block/loop5
+檔案系統: ext4
+唯讀
+/apex/com.android.tzdata@290000000: 裝置: /dev/block/loop6
+檔案系統: ext4
+唯讀
+/apex/com.android.tzdata: 裝置: /dev/block/loop6
+檔案系統: ext4
+唯讀
+/apex/com.android.conscrypt@290000000: 裝置: /dev/block/loop7
+檔案系統: ext4
+唯讀
+/apex/com.android.conscrypt: 裝置: /dev/block/loop7
+檔案系統: ext4
+唯讀
+/apex/com.android.media.swcodec@290000000: 裝置: /dev/block/loop8
+檔案系統: ext4
+唯讀
+/apex/com.android.media.swcodec: 裝置: /dev/block/loop8
+檔案系統: ext4
+唯讀
+/metadata: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/metadata
+檔案系統: ext4
+讀寫
+/vendor: 裝置: /dev/block/dm-1
+檔案系統: ext4
+唯讀
+/acct: 裝置: none
+檔案系統: cgroup
+讀寫
+/config: 裝置: none
+檔案系統: configfs
+讀寫
+/data: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/userdata
+檔案系統: ext4
+讀寫
+/twdataconfig: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/twdataconfig
+檔案系統: ext4
+讀寫
+/cache: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/cache
+檔案系統: ext4
+讀寫
+/twapp: 裝置: /dev/block/platform/soc/soc:ap-apb/71400000.sdio/by-name/twapp
+檔案系統: ext4
+唯讀
+/storage: 裝置: tmpfs
+檔案系統: tmpfs
+讀寫
+/storage/emulated: 裝置: /data/media
+檔案系統: sdcardfs
+讀寫
+/storage/self: 裝置: tmpfs
+檔案系統: tmpfs
+讀寫
+
+<<< 系統檔案 >>>
+
+Buddy Info: /proc/buddyinfo
+Build Properties: /system/build.prop
+Character & Block Devices: /proc/devices
+Command Line: /proc/cmdline
+CPU Information: /proc/cpuinfo
+Default Properties: /default.prop
+Execution Domains: /proc/execdomains
+File Systems: /proc/filesystems
+Frame Buffer Devices: /proc/fb
+Hosts: /system/etc/hosts
+Interrupts: /proc/interrupts
+Input Devices: /proc/bus/input/devices
+I/O Ports: /proc/ioports
+Kernel Version: /proc/version
+Load Average: /proc/loadavg
+Locked Files: /proc/locks
+Memory Information: /proc/meminfo
+Memory Map: /proc/iomem
+Misc Drivers: /proc/misc
+Partitions: /proc/partitions
+Statistics: /proc/stat
+Swap Spaces: /proc/swaps
+
+<<< /proc/cpuinfo >>>
+
+processor	: 0
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 1
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 2
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 3
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 4
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 5
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 6
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x3
+CPU part	: 0xd0a
+CPU revision	: 1
+
+processor	: 7
+BogoMIPS	: 52.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x3
+CPU part	: 0xd0a
+CPU revision	: 1
+
+Hardware	: UIS7862A
+Serial		: <Serial>
+
+<<< /proc/meminfo >>>
+
+MemTotal:        7941460 kB
+MemFree:         3014592 kB
+MemAvailable:    5349924 kB
+Buffers:           27336 kB
+Cached:          2493908 kB
+SwapCached:            0 kB
+Active:          2665112 kB
+Inactive:        1192376 kB
+Active(anon):    1466296 kB
+Inactive(anon):    12172 kB
+Active(file):    1198816 kB
+Inactive(file):  1180204 kB
+Unevictable:      134196 kB
+Mlocked:          134976 kB
+SwapTotal:       4917420 kB
+SwapFree:        4917420 kB
+Dirty:               316 kB
+Writeback:           108 kB
+AnonPages:       1470220 kB
+Mapped:          1121376 kB
+Shmem:             13012 kB
+Slab:             175916 kB
+SReclaimable:      76348 kB
+SUnreclaim:        99568 kB
+KernelStack:       36528 kB
+PageTables:        67660 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     8888148 kB
+Committed_AS:   87876956 kB
+VmallocTotal:   263061440 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
